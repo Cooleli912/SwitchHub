@@ -20,16 +20,12 @@ Many sites will work, meaning I have a lot of websites to test.
 ## Browser Features
 The Browser is good at many things, but cannot display videos, please complain to Nintendo about this lol.
 
-🟡 - Partially Working
-✅ - Works Pretty Good
-❎ - Doesn't Work
-
-Text ✅
-Fonts 🟡
-Images ✅
-Videos ❎
-CSS Styling ✅
-JavaScript ✅
-HTML Gamepad Support ✅
+Text - Works Great.
+Fonts - Works Partially.
+Images - Works Great.
+Videos - Doesn't Work.
+CSS Styling - Works Most Of The Time.
+JavaScript - Absolutely!
+HTML Gamepad Support - Works Great.
 
 Basically all the major features, Meaning this collection is going to work great!
