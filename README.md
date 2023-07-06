@@ -6,6 +6,9 @@ MooMoo.io - Worked Previously, Now has issues loading.
 slither.io - Works, If you can bear the lag.
 eelonline.us - Works Perfectly.
 
+On your switch go to: switchhub.cooleli912.github.io/list.md
+
+
 ## Known Research
 I have done a bit of research, and the browser is capable of many things.
 
